@@ -1,8 +1,9 @@
 /test
 /bin/*.class
 #*.settings
+#или нужно?
 #*.classpath
-#*.project
+*.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
