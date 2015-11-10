@@ -24,7 +24,7 @@ public class EntityUser {
 	 * Create the application.
 	 */
 	public EntityUser() {
-		 JFrame entityFrame = new JFrame("ÄÁÎ Áðîêåð");
+		 JFrame entityFrame = new JFrame("Ð”Ð‘Ðž Ð±Ñ€Ð¾ÐºÐµÑ€");
 		 entityFrame.setSize(550, 403);   
 		 entityFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		 entityFrame.getContentPane().setLayout(null);

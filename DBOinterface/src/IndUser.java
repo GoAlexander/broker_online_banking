@@ -31,21 +31,13 @@ public class IndUser {
 	/**
 	 * Launch the application.
 	 */
-	/*public static void main(String args[]) {   
-	    // Create the frame on the event dispatching thread.   
-	    SwingUtilities.invokeLater(new Runnable() {   
-	      public void run() {   
-	        new IndUser();   
-	      }   
-	    });   
-	  }   */
 
 	/**
 	 * Create the frame.
 	 */
 	public IndUser() {
 		 // Create a new JFrame container.   
-	    JFrame indFrame = new JFrame("ÄÁÎ Áðîêåð");
+	    JFrame indFrame = new JFrame("Ð”Ð‘Ðž Ð±Ñ€Ð¾ÐºÐµÑ€");
 	    
 	    	
 	   
@@ -101,9 +93,9 @@ public class IndUser {
 	    panel.add(panel_2);
 	    panel_2.setLayout(null);
 	   
-	    JFrame øndUser = new JFrame("ÄÁÎ Áðîêåð");
-		øndUser.setSize(550, 403);   
-		øndUser.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	    JFrame indUser = new JFrame("Ð”Ð‘Ðž Ð±Ñ€Ð¾ÐºÐµÑ€");
+		indUser.setSize(550, 403);   
+		indUser.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    
 	    JLabel typeUser = new JLabel("\u0412\u044B\u0431\u043E\u0440 \u0444\u0443\u043D\u043A\u0446\u0438\u0439");
 	    typeUser.setFont(new Font("Tahoma", Font.PLAIN, 12));

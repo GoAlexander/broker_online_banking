@@ -18,9 +18,9 @@ class DboBroker {
   DboBroker() {   
   
     // Create a new JFrame container.   
-    JFrame firstDbo = new JFrame("ДБО Брокер");
+    JFrame firstDbo = new JFrame("Р”Р‘Рћ Р±СЂРѕРєРµСЂ");
     
-    JFrame indFrame = new JFrame("ДБО Брокер");
+    JFrame indFrame = new JFrame("Р”Р‘Рћ Р±СЂРѕРєРµСЂ");
    
     // Give the frame an initial size.   
     firstDbo.setSize(550, 403);   
