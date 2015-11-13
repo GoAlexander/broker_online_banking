@@ -2,7 +2,7 @@
 /bin/*.class
 #*.settings
 #или нужно?
-#*.classpath
+*.classpath
 *.project
 
 # Mobile Tools for Java (J2ME)
