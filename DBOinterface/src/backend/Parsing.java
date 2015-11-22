@@ -1,4 +1,4 @@
-package backend;
+/*package backend;
 
 import org.apache.poi.ss.usermodel.*;
 
@@ -43,7 +43,7 @@ public class Parsing {
 	 * 
 	 */
 
-	public static void readtest() throws Exception {
+	/*public static void readtest() throws Exception {
 		//Achtung! Придумать другой путь к xls!!! 
 		InputStream in = new FileInputStream("/home/alexander/Files/Workspaces/eclipse/broker_online_banking/DBexcel/физ_лица.xls");
 		
@@ -58,4 +58,4 @@ public class Parsing {
 
 	}
 
-}
+}*/
