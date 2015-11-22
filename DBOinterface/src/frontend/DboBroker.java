@@ -46,8 +46,7 @@ import java.awt.Toolkit;
 
 public class DboBroker {
 	
-	
-	
+
 	//check panel
 	private JFrame frmDboBroker;
 	private JPanel panelFirstPage;
@@ -65,7 +64,7 @@ public class DboBroker {
 	private JCheckBox chckbxSetDefault;
 	private JCheckBox chcbxSetChange;
 	
-	  //individ services
+	  //individual services
 	private JCheckBox IndIBcheckBoxVirtCard;
 	private JCheckBox IndIBcheckBoxManCalcul;
 	private JCheckBox IndIBcheckBoxPayServ;
