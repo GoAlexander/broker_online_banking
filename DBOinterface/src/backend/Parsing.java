@@ -1,4 +1,4 @@
-package backend;
+/*package backend;
 
 import org.apache.poi.ss.usermodel.*;
 
@@ -82,7 +82,7 @@ public class Parsing {
 	 * 
 	 */
 
-	public static void readtest() throws Exception {
+	/*public static void readtest() throws Exception {
 		//Achtung! Придумать другой путь к xls!!! 
 		
 		//Achtung! Проверять строчку НБД банка!!!
@@ -110,4 +110,4 @@ public class Parsing {
 
 	}
 
-}
+}*/
