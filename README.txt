@@ -1,4 +1,4 @@
-This program has terrible code, sorry. It wrote very quickly...
+This program has terrible code and a lot of "dirty hacks", sorry. It was written very very(!) quickly...
 
 What do you need to start this program:
 
@@ -7,4 +7,8 @@ What do you need to start this program:
 3. Write new path to excel files
 
 Notes:
-The program works with current base good but with another you have to redo program (Parsing.java).
+The program works with current base good but with another you have to remake some code (in Parsing.java).
+
+Authors of code:
+Interface: KhAngelina
+Backend: GoAlexander
